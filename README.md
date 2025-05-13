@@ -48,19 +48,19 @@ Desenvolvedores:
 - [nome](link)
 
 --
-## 3 - Nome do(a) assistente
+## 3 - Chat Lojika!
 
 ![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
 
 **Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [[Pode me acessar aqui]](https://colab.research.google.com/drive/1dT7o-9sN9OlGUXkz_DVYNUyVCp8YyppC?usp=sharing)
 
 🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
+- [Kauan Nicolas]([link](https://github.com/KauanNic))
+- [Jorge Antonio](link)
 - [nome](link)
 - [nome](link)
 - [nome](link)
